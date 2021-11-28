@@ -2,6 +2,8 @@ package main
 
 import "log"
 
+
+
 func main() {
 	var mystring string
 	mystring = "green"
